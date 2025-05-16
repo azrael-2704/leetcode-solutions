@@ -1,4 +1,4 @@
-# 🧠 LeetCode Solutions by Topic
+# LeetCode Solutions by Topic
 
 Welcome to my curated collection of LeetCode solutions organized by various topics. This repository is designed to help me (and others) revise, practice, and understand problem-solving strategies commonly asked in technical interviews. More than that, it is primarily for self accountability and to maintain a record of my personal progress.
 
@@ -13,7 +13,7 @@ Welcome to my curated collection of LeetCode solutions organized by various topi
 
 ---
 
-## 🗂️ Folder Structure
+## Folder Structure
 
 Each folder is a **topic**, and contains multiple `.py` / `.cpp` / `.java` files representing solved problems.
 
