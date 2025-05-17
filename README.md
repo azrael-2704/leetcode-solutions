@@ -51,9 +51,10 @@ class Solution {
 ## How to Use
 
 1. Pick a topic you're working on.  
-2. Browse solution files with consistent naming (`<problem-name>.cpp`).  
+2. Browse solution files with consistent naming (`<problem-number>-<problem-name>.cpp`).  
 3. Review code and metadata for quick reference.  
-4. Run/test locally with optional `main()` blocks.
+4. You can find files redundantly across the relevant topics.
+5. Run/test locally with optional `main()` blocks.
 
 ---
 
