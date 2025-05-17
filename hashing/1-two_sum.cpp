@@ -1,4 +1,4 @@
-// Problem: Two Sum
+// Problem: 1. Two Sum
 // URL: https://leetcode.com/problems/two-sum/
 // Difficulty: Easy
 // Date: 17 May 2025
