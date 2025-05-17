@@ -5,8 +5,7 @@
 // Tags: Array, Two Pointers, Sorting
 // Solution Beats: 100.00%
 
-#include <iostream>
-#include <vector>
+#include <bits/stdc++.h>
 using namespace std;
 
 class Solution {

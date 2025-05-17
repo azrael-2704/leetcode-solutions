@@ -31,10 +31,15 @@ leetcode-solutions/
 Each solution file follows this format:
 
 ```cpp
-// Problem: Two Sum
+// Problem: Sort Colors
 // URL: https://leetcode.com/problems/two-sum/
 // Difficulty: Easy
-// Date: 2025-05-16
+// Date: 16 May 2025
+// Tags: Array, Hash Table
+// Solution Beats: 100.00%
+
+#include <bits/stdc++.h>
+using namespace std;
 
 class Solution {
     ...
