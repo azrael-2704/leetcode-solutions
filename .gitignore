@@ -1,1 +1,52 @@
+# Binaries and object files
 *.exe
+*.o
+*.obj
+*.dll
+*.lib
+*.out
+*.tmp
+
+# Debug and Release folders (common in VS and other build systems)
+Debug/
+Release/
+x64/
+x86/
+bin/
+build/
+dist/
+
+# Visual Studio Code settings
+.vscode/
+*.code-workspace
+
+# Visual Studio user-specific files (in case you're using it)
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# CMake build files (if using CMake)
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Logs and system files
+*.log
+*.cache
+*.pdb
+*.idb
+*.tlog
+*.lastbuildstate
+*.db
+*.opendb
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+ehthumbs.db
+desktop.ini
+
+# Keep this file tracked
+!.gitignore

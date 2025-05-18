@@ -20,11 +20,11 @@ Each folder is a **topic**, and contains multiple `.py` / `.cpp` / `.java` files
 ```
 leetcode-solutions/
 ├── arrays/
-│   └── two_sum.py
+│   └── two_sum.cpp
 ├── dynamic-programming/
-│   └── longest_increasing_subsequence.py
+│   └── longest_increasing_subsequence.cpp
 ├── graphs/
-│   └── number_of_provinces.py
+│   └── number_of_provinces.cpp
 ...
 ```
 
